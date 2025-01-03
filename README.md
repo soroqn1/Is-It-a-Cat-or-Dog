@@ -14,7 +14,7 @@ This project leverages a convolutional neural network (CNN) with the MobileNetV2
 
     ```bash
     git clone https://github.com/soroqn1/is-it-a-cat-or-dog
-    cd it-a-cat-or-dog
+    cd Is-It-a-Cat-or-Dog
     ```
 
 2. **Set up a virtual environment:**
